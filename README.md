@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Charis04
-- 👀 I’m interested in Software engeneering, Data science and AI
-- 🌱 I’m currently learning Software engeneering, data science and AI
-- 💞️ I’m looking to collaborate on Software engeneering, data science and AI
-- 📫 How to reach me - www.twitter.com/Charis_sensei on twitter || www.linkedin.com/in/charisadu on linkedln || charisadu@gmail.com 
+- 👀 I’m interested in Software Engineering, Data Science and AI
+- 🌱 I’m currently learning Software Engineering, Data Science and AI
+- 💞️ I’m looking to collaborate on Software Engineering, Data Science and AI
+- 📫 How to reach me - www.twitter.com/Charis_sensei on Twitter || www.linkedin.com/in/charisadu on LinkedIn || charisadu@gmail.com 
 
 <!---
 Charis04/Charis04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
