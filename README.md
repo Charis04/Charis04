@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Charis04
+- 👋 Hi, I’m Charis
 - 👀 I’m interested in Software Engineering, Data Science and AI
 - 🌱 I’m currently learning Software Engineering, Data Science and AI
 - 💞️ I’m looking to collaborate on Software Engineering, Data Science and AI
